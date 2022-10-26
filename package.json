@@ -1,0 +1,12 @@
+{
+  "name": "redis-om-fuzzy",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Guy Royse <guy@guyroyse.com> (http://guyroyse.com/)",
+  "license": "Public Domain",
+  "private": true,
+  "dependencies": {
+    "redis": "^4.3.1",
+    "redis-om": "^0.3.6"
+  }
+}
